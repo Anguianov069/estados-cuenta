@@ -1,6 +1,6 @@
 constants:
   saludo: Hola Mundo
   url:
-    credito: http://credito
-    debito: http://debito
-    inversion: http://inversion
+    credito: http://credito/Creditos
+    debito: http://debito/Debitos
+    inversion: http://inversion/Nominas
