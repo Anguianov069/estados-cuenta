@@ -1,0 +1,6 @@
+constants:
+  saludo: Hola Mundo
+  url:
+    credito: http://credito
+    debito: http://debito
+    inversion: http://inversion
